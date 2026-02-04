@@ -6,4 +6,6 @@ const Footer = () => {
   )
 }
 
-export default Footer
+
+export default Footer<br>
+<p>hello<p>
